@@ -1,7 +1,7 @@
 #!/bin/sh
 #install Prusa Slicer(2.6.0alpha0)
 #N4XWE 12-28-2022
-#Test Compiled on RaspiOS-bullseye dtd 2022-09-22 64-bit
+#Test Compiled on Ubuntu MATE 22.04 64-bit
 
 sudo apt update && sudo apt -y upgrade
 
