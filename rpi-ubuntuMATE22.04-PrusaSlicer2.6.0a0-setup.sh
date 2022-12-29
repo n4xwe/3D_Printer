@@ -11,7 +11,7 @@ libgtk-3-dev libdbus-1-dev ||
 
 mkdir -p ~/src/PRSLCR && cd ~/src/PRSLCR
 
-git clone https://www.github.com/prusa3d/PrusaSlicer ||
+git clone https://www.github.com/prusa3d/PrusaSlicer.git ||
     { echo 'Unable to download the Prusa Slicer repository'; exit 1; }
   
 cd ~/src/PRSLCR/PrusaSlicer
