@@ -1,7 +1,7 @@
 #!/bin/sh
-#install Prusa Slicer(2.6.0alpha0)
-#N4XWE 12-28-2022
-#Test Compiled on RaspiOS-bullseye dtd 2022-09-22 64-bit
+#install Prusa Slicer(2.6.0alpha6)
+#N4XWE 05-13-2023
+#Test Compiled on RaspiOS-bullseye dtd 2023-02-21 64-bit
 
 sudo apt update && sudo apt -y upgrade
 
