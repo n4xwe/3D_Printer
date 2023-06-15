@@ -1,5 +1,5 @@
 #!/bin/sh
-#install Prusa Slicer(2.6.0beta1)
+#install Prusa Slicer(2.6.0-rc1)
 #N4XWE 05-14-2023
 #Test Compiled on RaspiOS-bullseye dtd 2023-05-03 64-bit
 
