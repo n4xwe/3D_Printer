@@ -5,4 +5,4 @@ One of my interests is additive manufacturing. The scripts in this repository ge
 
 In the Home directory create another directory named src. Place a copy of the script you want to compile in that directory.  Change the Permissions properties of the script to Execute:Anyone. In a terminal change the current direcory to the src directory that was just created.  Execute the script by typing "./(full-Name-of-the-script).sh" without the quotes of course.  
 
-The compile time for the script on a RaspberryPi 4 is approximately five hours.
+I created this script for my own amusement so unlike most of my scripts it is not commented.  The compile time for the script on a RaspberryPi 4 is approximately five hours.
